@@ -1,1 +1,1 @@
-# cdnmovie.github.io
+Just simple web player.
