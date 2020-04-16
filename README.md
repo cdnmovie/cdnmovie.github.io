@@ -1,1 +1,0 @@
-Just simple web player.
